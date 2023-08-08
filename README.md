@@ -21,8 +21,8 @@ My introduction to the world of programming was sparked by the allure of creatin
 ### Game: [Tomb Rumble](link-to-game-repo)
 Description: 3D First person adventure. 
 
-- [Project 1]([link-to-project-1](https://github.com/danielkorsh1/ElectronicStore-main)): Electronic Store with DB.
-- [Project 2]([link-to-project-2](https://github.com/danielkorsh1/Filmz-App)): Netflix like react app.
+- [Electronic Store](https://github.com/danielkorsh1/ElectronicStore-main) : Electronic Store with DB.
+- [Filmz App](https://github.com/danielkorsh1/Filmz-App) : Netflix like react app.
 
 ## Learning and Exploring
 
