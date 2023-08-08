@@ -1,5 +1,6 @@
-# Daniel Korshonov
+# Aspiring Game Developer and Software practical engineer.
 
+![Unity](https://img.shields.io/badge/-Unity-brightgreen)
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![C#](https://img.shields.io/badge/-C%23-blue)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow)
@@ -11,13 +12,31 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![Python](https://img.shields.io/badge/-Python-green)
 
-Welcome to my GitHub profile! I'm passionate about coding and have experience with HTML, CSS, JavaScript, and Python. Here, you'll find a collection of my projects and contributions.
+Welcome to my GitHub profile! I'm an enthusiastic software enthusiast, passionate about game development and software engineering. As I wrap up my final semester, I'm excited to apply my theoretical knowledge through hands-on projects.
 
-## Projects
+## About Me
+
+My introduction to the world of programming was sparked by the allure of creating interactive experiences and innovative applications. While my experience isn't vast, my enthusiasm and dedication are unwavering.
+
+### Game: [Tomb Rumble](link-to-game-repo)
+Description: 3D First person adventure. 
 
 - [Project 1](link-to-project-1): Brief description of the project.
 - [Project 2](link-to-project-2): Brief description of the project.
 
+## Learning and Exploring
+
+- I've studied game development principles and software engineering concepts during my academic pursuits, fueling my passion for creating impactful digital experiences.
+- My theoretical knowledge includes algorithms, data structures, and object-oriented programming, which I'm eager to put into practice.
+
+## Tools and Technologies
+
+- Unity: A platform I've been delving into for bringing my game ideas to life.
+- C#: A language I'm excited to use for both game development and software projects.
+- Visual Studio Code: My primary coding companion for writing clean and structured code.
+- Intellij IDEA.
+
 ## Contact
 
 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/daniel-korshonov-560991227)
+[![HitCount](http://hits.dwyl.com/your-username/your-username.svg)](http://hits.dwyl.com/your-username/your-username)
