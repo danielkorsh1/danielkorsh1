@@ -1,5 +1,11 @@
 # Daniel Korshonov
 
+![Java](https://img.shields.io/badge/-Java-orange)
+![C#](https://img.shields.io/badge/-C%23-blue)
+![Firebase](https://img.shields.io/badge/-Firebase-yellow)
+![SQL](https://img.shields.io/badge/-SQL-green)
+![React](https://img.shields.io/badge/-React-blue)
+![React Native](https://img.shields.io/badge/-React%20Native-blue)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
