@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![Python](https://img.shields.io/badge/-Python-green)
 
-Welcome to my GitHub profile! I'm an enthusiastic software enthusiast, passionate about game development and software engineering. As I wrap up my final semester, I'm excited to apply my theoretical knowledge through hands-on projects.
+Welcome to my GitHub profile! I'm an enthusiastic software developer, passionate about game development and software engineering. As I wrap up my final semester, I'm excited to apply my theoretical knowledge through hands-on projects.
 
 ## About Me
 
