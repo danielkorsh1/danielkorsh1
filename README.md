@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an enthusiastic software enthusiast, passionat
 
 My introduction to the world of programming was sparked by the allure of creating interactive experiences and innovative applications. While my experience isn't vast, my enthusiasm and dedication are unwavering.
 
-### Game: [Tomb Rumble](link-to-game-repo)
+### Game: [Tomb Rumble]([link-to-game-repo](https://github.com/danielkorsh1/Tomb_Rumble))
 Description: 3D First person adventure. 
 
 ### - [Electronic Store](https://github.com/danielkorsh1/ElectronicStore-main) : Electronic Store with DB.
