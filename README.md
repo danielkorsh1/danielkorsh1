@@ -24,11 +24,11 @@ Description: 3D First person adventure.
 ## Dev Log: Infinite Dimensional Runner
 
 Check out the latest development log for my game "Infinite Dimensional Runner" on YouTube:
-# Click on the Thumbnail below!
+### Click on the Thumbnail below!
 [![Thumbnail](https://i.ytimg.com/an_webp/Er8rTIITNnY/mqdefault_6s.webp?du=3000&sqp=CITfgKgG&rs=AOn4CLBk88rfPYAREXZcVrfc_Z1DSFO0lA)](https://www.youtube.com/watch?v=Er8rTIITNnY)
 
-### Electronic Store with DB - [Electronic Store](https://github.com/danielkorsh1/ElectronicStore-main) 
-### Netflix like react app - [Filmz App](https://github.com/danielkorsh1/Filmz-App)
+## Electronic Store with DB - [Electronic Store](https://github.com/danielkorsh1/ElectronicStore-main) 
+## Netflix like react app - [Filmz App](https://github.com/danielkorsh1/Filmz-App)
 
 ## Learning and Exploring
 
