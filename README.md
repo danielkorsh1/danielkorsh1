@@ -31,8 +31,8 @@ Check out the latest development log for my game "Infinite Dimensional Runner" o
 
 ## Learning and Exploring
 
-- I've studied game development principles and software engineering concepts during my academic pursuits, fueling my passion for creating impactful digital experiences.
-- My theoretical knowledge includes algorithms, data structures, and object-oriented programming, which I'm eager to put into practice.
+- I've studied game development and software engineering concepts during my academic pursuits, fueling my passion for creating impactful digital experiences.
+- My knowledge includes algorithms, data structures, and object-oriented programming, which I'm eager to put into practice.
 
 ## Tools and Technologies
 
